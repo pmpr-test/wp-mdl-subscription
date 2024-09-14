@@ -1,0 +1,1290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr Subscription\n"
+"POT-Creation-Date: 2024-05-17 04:55+0330\n"
+"PO-Revision-Date: 2024-05-17 04:56+0330\n"
+"Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Module/Subscription/Ajax.php:63
+msgid "Item add successfully, to your library."
+msgstr "آیتم مورد نظر با موفقیت به کتابخانه شما اضافه شد."
+
+#: src/Pmpr/Module/Subscription/Ajax.php:72
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:154
+msgid "To add item to library, you need to login or register first."
+msgstr "برای افزودن آیتم به کتابخانه، ابتدا باید وارد شوید یا ثبت نام کنید."
+
+#: src/Pmpr/Module/Subscription/Ajax.php:76
+msgid "Post ID"
+msgstr "شناسه نوشته"
+
+#: src/Pmpr/Module/Subscription/Ajax.php:98
+msgid "Item deleted successfully from your library."
+msgstr "آیتم مورد نظر با موفقیت از کتابخانه شما حذف شد."
+
+#: src/Pmpr/Module/Subscription/Ajax.php:103
+#: src/Pmpr/Module/Subscription/Model/Plan.php:254
+msgid "ID"
+msgstr "شناسه"
+
+#: src/Pmpr/Module/Subscription/Ajax.php:167
+msgid "Your requested attachment not found."
+msgstr "پیوست درخواستی شما یافت نشد."
+
+#: src/Pmpr/Module/Subscription/Ajax.php:171
+msgid "Sorry, you dont have access to see this content."
+msgstr "متاسفانه شما دسترسی لازم برای مشاهده این محتوا را ندارید."
+
+#: src/Pmpr/Module/Subscription/Ajax.php:176
+#: src/Pmpr/Module/Subscription/Model/Library.php:39
+msgid "Attachment"
+msgstr "پیوست"
+
+#: src/Pmpr/Module/Subscription/Container.php:169
+msgid "Login"
+msgstr "ورود"
+
+#: src/Pmpr/Module/Subscription/Container.php:175
+msgid "Register"
+msgstr "ثبت نام"
+
+#: src/Pmpr/Module/Subscription/Container.php:202
+msgid "You are unable to view the requested content"
+msgstr "شما قادر به مشاهده محتوای درخواستی نیستید"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Pricing.php:25
+#: src/Pmpr/Module/Subscription/Setting.php:199
+msgid "Pricing"
+msgstr "قیمت گذاری"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:24
+#: src/Pmpr/Module/Subscription/Setting.php:283
+msgid "Viewer"
+msgstr "پی‌دی‌اف خوان"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:92
+#: src/Pmpr/Module/Subscription/Setting.php:422
+#: src/Pmpr/Module/Subscription/Setting.php:427
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:207
+#: src/Pmpr/Module/Subscription/Woocommerce/Product.php:181
+msgid "View"
+msgstr "مشاهده"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:93
+msgid "Close"
+msgstr "بستن"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:94
+msgid "Cancel"
+msgstr "انصراف"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:95
+msgid "Viewing"
+msgstr "در حال مشاهده"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:97
+msgid "Are you sure you want add this item to your library?"
+msgstr "آیا مطمئن هستید که می خواهید این مورد را به کتابخانه خود اضافه کنید؟"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:98
+msgid "Add to Library"
+msgstr "افزودن به کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:101
+msgid "Are you sure you want delete this item from your library?"
+msgstr "آیا مطمئن هستید که می خواهید این مورد را از کتابخانه خود حذف کنید؟"
+
+#: src/Pmpr/Module/Subscription/Frontend/Page/Viewer.php:102
+msgid "Delete from Library"
+msgstr "حذف از کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Manager.php:129
+msgid "Click the button below to access the full content."
+msgstr "برای دسترسی به محتوای کامل روی دکمه زیر کلیک کنید."
+
+#: src/Pmpr/Module/Subscription/Manager.php:130
+msgid "Access to full content"
+msgstr "دسترسی به محتوای کامل"
+
+#: src/Pmpr/Module/Subscription/Model/Library.php:20
+msgid "Library Items"
+msgstr "آیتم‌های کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Model/Library.php:21
+msgid "Library Item"
+msgstr "آیتم کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Model/Library.php:31
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:33
+#: src/Pmpr/Module/Subscription/Setting.php:161
+msgid "User"
+msgstr "کاربر"
+
+#: src/Pmpr/Module/Subscription/Model/Library.php:35
+msgid "Post"
+msgstr "نوشته‌"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:32
+msgid "Plans"
+msgstr "پلن‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:33
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:52
+msgid "Plan"
+msgstr "پلن"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:43
+msgid "Title"
+msgstr "عنوان"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:47
+msgid "Display Title"
+msgstr "عنوان نمایشی"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:51
+msgid "Image"
+msgstr "تصویر"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:55
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:45
+msgid "Active"
+msgstr "فعال"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:56
+msgid "Inactive"
+msgstr "غیر فعال‌‌"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:57
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:48
+msgid "Status"
+msgstr "وضعیت"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:61
+#: src/Pmpr/Module/Subscription/Model/Plan.php:62
+#, php-format
+msgid "Redirect to %s"
+msgstr "انتقال به %s"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:61
+msgid "Product"
+msgstr "محصول"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:62
+#: src/Pmpr/Module/Subscription/Setting.php:219
+msgid "Page"
+msgstr "صفحه"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:63
+msgid "Purchase Process"
+msgstr "فرآیند خرید"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:68
+msgid "Related Product"
+msgstr "محصول مرتبط"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:73
+msgid "Related Page"
+msgstr "صفحه مرتبط"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:77
+msgid "Period (Unit)"
+msgstr "دوره (واحد)"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:78
+msgid "Daily"
+msgstr "روزانه"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:79
+msgid "Weekly"
+msgstr "هفتگی"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:80
+msgid "Monthly"
+msgstr "ماهانه"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:81
+msgid "Yearly"
+msgstr "سالانه"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:86
+msgid "Period (Value)"
+msgstr "دوره (مقدار)"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:91
+msgid "Priority"
+msgstr "اولویت"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:95
+msgid "Description"
+msgstr "شرح"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:99
+msgid "Rules"
+msgstr "قواعد"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:103
+msgid "Features"
+msgstr "ویژگی‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:107
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:22
+msgid "Subscriptions"
+msgstr "اشتراک‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:130
+msgid "Display on admin panel area."
+msgstr "نمایش در قسمت پنل مدیریت."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:134
+msgid "Display Title (Frontend)"
+msgstr "عنوان نمایشی (قسمت نمایشی)"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:135
+msgid "Leave empty if you want use title as display title."
+msgstr "اگر می‌خواهید از عنوان استفاده شود، این فیلد را خالی رها کنید."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:164
+msgid "Duration of active subscription for the user."
+msgstr "مدت زمان فعال بودن اشتراک برای کاربر."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:168
+msgid ""
+"Display priority and calculation priority in cases of differences between plans."
+msgstr "اولویت نمایش و اولویت محاسباتی در موارد اختلاف بین پلن‌ها."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:176
+msgid "Rule"
+msgstr "قاعده"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:178
+msgid ""
+"A non-inclusive approach, no matter what rule it is defined in, has priority "
+"over all inclusive approaches."
+msgstr ""
+"یک رویکرد عدم شمول، فارغ از اینکه در چه قاعده‌ای تعریف شود به تمامی رویکرد‌های از "
+"نوع شمول اولویت دارد."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:181
+msgid "Type"
+msgstr "نوع"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:182
+msgid "Restricted access for non-subscribers"
+msgstr "محدودیت دسترسی برای غیر مشترکین"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:183
+msgid "Providing discounts for subscribers"
+msgstr "ارائه تخفیف برای مشترکین"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:189
+msgid "Coupon"
+msgstr "کد تخفیف"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:193
+#, php-format
+msgid "Set the desired products through %s."
+msgstr "محصولات مورد نظر را از طریق %s تنظیم کنید."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:195
+msgid "The discount code section"
+msgstr "بخش کد تخفیف"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:203
+msgid "Add to Cart Button Text"
+msgstr "متن دکمه افزودن به سبد خرید"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:204
+msgid "Shown to subscribed users."
+msgstr "به کاربران دارای اشتراک نمایش داده می‌شود."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:208
+msgid "Alert for none subscribed users"
+msgstr "پیام به کاربرانی که اشتراک ندارند"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:209
+msgid ""
+"Users who do not have a subscription will see this message when viewing any of "
+"the products containing the selected coupon."
+msgstr ""
+"کاربرانی که اشتراک ندارند با مشاهده هر یک از محصولات شامل کد تخفیف انتخاب شده، "
+"این پیام را مشاهده می‌کنند."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:213
+msgid "Approach"
+msgstr "رویکرد"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:214
+msgid "Include"
+msgstr "شمول"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:214
+msgid "Restrictions apply to selected items"
+msgstr "محدودیت به موارد انتخابی اعمال شود"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:215
+msgid "Exclude"
+msgstr "عدم شمول"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:215
+msgid "Restrictions should not be applied to selected items"
+msgstr "محدودیت به موارد انتخابی اعمال نشود"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:219
+msgid "Target"
+msgstr "هدف"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:220
+msgid "Post Single"
+msgstr "سینگل نوشته"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:221
+msgid "Term Archive"
+msgstr "آرشیو ترم"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:222
+msgid "Post Archive"
+msgstr "آرشیو نوشته"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:223
+msgid "Dynamic"
+msgstr "پویا (به صورت پیوند)"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:232
+msgid "Shrinking the scope of the select (optional)"
+msgstr "کوچکتر کردن دامنه انتخاب (اختیاری)"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:233
+msgid "The selected posts are grouped together by the fields below."
+msgstr "نوشته‌های انتخاب شده توسط فیلد‌های زیر با هم تجمیع می‌شوند."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:236
+msgid "Post types"
+msgstr "نوع نوشته‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:242
+msgid "or terms"
+msgstr "یا ترم‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:248
+msgid "Ordering"
+msgstr "مرتب‌ سازی"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:252
+msgid "Order By"
+msgstr "مرتب‌ شده با"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:253
+msgid "Created"
+msgstr "تاریخ ایجاد"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:259
+msgid "Order"
+msgstr "ترتیب"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:260
+msgid "DESC"
+msgstr "نزولی"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:261
+msgid "ASC"
+msgstr "صعودی"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:266
+msgid "Number"
+msgstr "تعداد"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:267
+msgid "Leave empty if you want to select all posts."
+msgstr "برای انتخاب همه نوشته‌ها، خالی رها کنید."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:272
+msgid "or posts"
+msgstr "یا نوشته‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:278
+msgid "Shrinking the scope of the rule (optional)"
+msgstr "کوچکتر کردن دامنه قاعده (اختیاری)"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:279
+msgid "The selected terms are grouped together by the fields below."
+msgstr "ترم‌های انتخاب شده توسط فیلد‌های زیر با هم تجمیع می‌شوند."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:282
+msgid "Taxonomies"
+msgstr "تکسونومی‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:287
+#: src/Pmpr/Module/Subscription/Setting.php:431
+#: src/Pmpr/Module/Subscription/Setting.php:464
+msgid "Terms"
+msgstr "ترم‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:293
+msgid "Post Types"
+msgstr "نوع نوشته‌ها"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:298
+msgid "Pattern"
+msgstr "الگو"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:299
+msgid ""
+"By using the asterisk (*), you can create dynamic patterns that can match many "
+"URLs."
+msgstr ""
+"با استفاده از ستاره (*)، می توانید الگوهای پویا ایجاد کنید که می توانند با "
+"بسیاری از URL ها مطابقت داشته باشند."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:303
+msgid "Apply Restrictions To"
+msgstr "اعمال محدودیت به"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:305
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:306
+msgid "Post Attachments"
+msgstr "پیوست‌های نوشته"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:313
+msgid "Access Medium"
+msgstr "رسانه دسترسی"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:314
+msgid ""
+"Make sure that the check box related to the downloadable product is selected."
+msgstr "دقت کنید که چک باکس مربوط به دانلودی بودن محصول انتخاب شده باشد."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:315
+msgid "View Attachment"
+msgstr "مشاهده پیوست"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:316
+msgid "Download Attachment"
+msgstr "دانلود پیوست"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:322
+msgid "Feature"
+msgstr "ویژگی‌"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:326
+msgid "Text"
+msgstr "متن"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:373
+#, php-format
+msgid "No %s selected."
+msgstr "%s انتخاب نشده است."
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:449
+#: src/Pmpr/Module/Subscription/Setting.php:247
+msgid "Buy Now!"
+msgstr "الان بخرید!"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:463
+#: src/Pmpr/Module/Subscription/Setting.php:252
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:572
+#, php-format
+msgid "%s Day"
+msgid_plural "%s Days"
+msgstr[0] "%s روز"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:575
+#, php-format
+msgid "%s Week"
+msgid_plural "%s Weeks"
+msgstr[0] "%s هفته"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:578
+#, php-format
+msgid "%s Year"
+msgid_plural "%s Years"
+msgstr[0] "%s سال"
+
+#: src/Pmpr/Module/Subscription/Model/Plan.php:582
+#, php-format
+msgid "%s Month"
+msgid_plural "%s Months"
+msgstr[0] "%s ماه"
+
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:23
+msgid "Subscription"
+msgstr "اشتراک"
+
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:37
+msgid "Order ID"
+msgstr "شناسه سفارش"
+
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:41
+msgid "Expiration Date"
+msgstr "تاریخ انقضا"
+
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:46
+msgid "Finished"
+msgstr "پایان یافته"
+
+#: src/Pmpr/Module/Subscription/Model/Subscription.php:47
+msgid "Cancelled"
+msgstr "لغو شده"
+
+#: src/Pmpr/Module/Subscription/Setting.php:92
+msgid "Subscription Setting"
+msgstr "تنظیمات اشتراک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:93
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: src/Pmpr/Module/Subscription/Setting.php:102
+#: src/Pmpr/Module/Subscription/Setting.php:205
+#: src/Pmpr/Module/Subscription/Setting.php:289
+#: src/Pmpr/Module/Subscription/Setting.php:372
+msgid "General"
+msgstr "عمومی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:103
+msgid "General Configuration"
+msgstr "پیکربندی عمومی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:107
+msgid "How To Limit"
+msgstr "نحوه محدود سازی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:110
+msgid "Attachment (File)"
+msgstr "پیوست (فایل)"
+
+#: src/Pmpr/Module/Subscription/Setting.php:112
+#: src/Pmpr/Module/Subscription/Setting.php:119
+msgid "Show a Modal or Message"
+msgstr "نمایش پیام یا مودال"
+
+#: src/Pmpr/Module/Subscription/Setting.php:117
+msgid "Content"
+msgstr "محتوا"
+
+#: src/Pmpr/Module/Subscription/Setting.php:120
+msgid "Redirect to Pricing Page"
+msgstr "ریدایرکت به صفحه قیمت‌گذاری"
+
+#: src/Pmpr/Module/Subscription/Setting.php:126
+msgid "Limitation Messages"
+msgstr "پیام‌های محدود سازی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:130
+msgid "Modal Title"
+msgstr "عنوان مودال"
+
+#: src/Pmpr/Module/Subscription/Setting.php:131
+msgid "Subscription Guide"
+msgstr "راهنمای اشتراک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:135
+msgid "Visitor Message"
+msgstr "پیام بازدید کننده (لاگین نشده)"
+
+#: src/Pmpr/Module/Subscription/Setting.php:136
+msgid "This message is displayed for unregistered users."
+msgstr ""
+"این پیام به افرادی که لاگین نکرده‌اند و به محتوای مورد نظر دسترسی ندارند نمایش "
+"داده می‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:137
+msgid ""
+"Unfortunately, you are unable to view the requested content, please log in or "
+"register."
+msgstr ""
+"متاسفانه شما قادر به مشاهده محتوای درخواستی نیستید، لطفا وارد شوید و یا ثبت‌نام "
+"کنید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:141
+msgid "User Message"
+msgstr "پیام کاربر (لاگین شده)"
+
+#: src/Pmpr/Module/Subscription/Setting.php:142
+msgid "This message is displayed for users who do not have access to the content."
+msgstr ""
+"این پیام به افرادی که لاگین کرده‌اند ولی به محتوای مورد نظر دسترسی ندارند نمایش "
+"داده می‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:143
+msgid ""
+"Unfortunately, you do not have access to view the requested content, please "
+"subscribe."
+msgstr ""
+"متاسفانه شما دسترسی لازم برای مشاهده محتوای درخواستی را ندارید، لطفا مشترک شوید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:147
+msgid "Subscribed User Message"
+msgstr "پیام کاربر مشترک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:148
+msgid ""
+"This warning is displayed for users who subscribed but don't have access to the "
+"content."
+msgstr ""
+"این پیام به کاربرانی نمایش داده می‌شود که مشترک شده‌اند، اما پلن آنها محتوای "
+"درخواستی را پشتیبانی نمی‌کند."
+
+#: src/Pmpr/Module/Subscription/Setting.php:149
+#: src/Pmpr/Module/Subscription/Setting.php:391
+#: src/Pmpr/Module/Subscription/Setting.php:404
+#: src/Pmpr/Module/Subscription/Setting.php:410
+msgid "Subscription Plan"
+msgstr "پلن اشتراک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:150
+#: src/Pmpr/Module/Subscription/Setting.php:392
+#: src/Pmpr/Module/Subscription/Setting.php:405
+#: src/Pmpr/Module/Subscription/Setting.php:411
+msgid "Subscription Expire Date"
+msgstr "تاریخ انقضای اشتراک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:156
+msgid "Bypass"
+msgstr "دور زدن"
+
+#: src/Pmpr/Module/Subscription/Setting.php:158
+msgid "Bypassing plans restrictions"
+msgstr "دور زدن محدودیت‌ پلن‌ها"
+
+#: src/Pmpr/Module/Subscription/Setting.php:166
+msgid "Roles"
+msgstr "نقش‌های کاربری"
+
+#: src/Pmpr/Module/Subscription/Setting.php:168
+msgid "Users with selected roles bypass all plans restrictions."
+msgstr ""
+"کاربرانی که دارای نقش‌های کاربری انتخاب شده باشند، تمامی محدودیت‌های اعمال شده "
+"توسط پلن‌ها را دور می‌زنند."
+
+#: src/Pmpr/Module/Subscription/Setting.php:173
+msgid "Browser"
+msgstr "مرورگر"
+
+#: src/Pmpr/Module/Subscription/Setting.php:178
+msgid "User Agents"
+msgstr "یوزر ایجنت‌ها (User-Agent)"
+
+#: src/Pmpr/Module/Subscription/Setting.php:179
+msgid "User Agent"
+msgstr "یوزر ایجنت‌"
+
+#: src/Pmpr/Module/Subscription/Setting.php:180
+msgid ""
+"If request user-agent include entered values, bypass all plans restrictions."
+msgstr ""
+"اگر User-Agent درخواست، شامل مقادیر وارد شده باشد، تمامی محدودی‌های اعمال شده "
+"توسط پلن‌ها دور می‌خورند."
+
+#: src/Pmpr/Module/Subscription/Setting.php:184
+msgid "Value"
+msgstr "مقدار"
+
+#: src/Pmpr/Module/Subscription/Setting.php:201
+msgid "Pricing Page & Modal"
+msgstr "صفحه قیمت‌گذاری و مودال"
+
+#: src/Pmpr/Module/Subscription/Setting.php:208
+msgid "Pricing Button Text"
+msgstr "متن دکمه قیمت‌گذاری"
+
+#: src/Pmpr/Module/Subscription/Setting.php:209
+msgid "View Plans"
+msgstr "مشاهده پلن‌ها"
+
+#: src/Pmpr/Module/Subscription/Setting.php:210
+msgid "Text of button linked to pricing page."
+msgstr "متن دکمه لینک شده به صفحه قیمت گذاری."
+
+#: src/Pmpr/Module/Subscription/Setting.php:216
+msgid "Pricing Page"
+msgstr "صفحه قیمت‌گذاری"
+
+#: src/Pmpr/Module/Subscription/Setting.php:224
+msgid "Page Title"
+msgstr "عنوان صفحه"
+
+#: src/Pmpr/Module/Subscription/Setting.php:229
+msgid "Page Description"
+msgstr "شرح صفحه"
+
+#: src/Pmpr/Module/Subscription/Setting.php:236
+msgid "Call to Action"
+msgstr "کال تو اکشن (Call to Action)"
+
+#: src/Pmpr/Module/Subscription/Setting.php:239
+msgid "Product Button Functionality"
+msgstr "عملکرد دکمه محصول"
+
+#: src/Pmpr/Module/Subscription/Setting.php:240
+msgid "Add to Cart"
+msgstr "افزودن به سبد خرید"
+
+#: src/Pmpr/Module/Subscription/Setting.php:241
+msgid "Link to Product"
+msgstr "لینک به صفحه محصول"
+
+#: src/Pmpr/Module/Subscription/Setting.php:246
+msgid "Product Button Text"
+msgstr "متن دکمه محصول"
+
+#: src/Pmpr/Module/Subscription/Setting.php:251
+msgid "Page Button Text"
+msgstr "متن دکمه صفحه"
+
+#: src/Pmpr/Module/Subscription/Setting.php:258
+#: src/Pmpr/Module/Subscription/Setting.php:277
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:144
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:201
+msgid "Library"
+msgstr "کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Setting.php:260
+msgid "Library Configuration"
+msgstr "پیکربندی کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Setting.php:264
+msgid "Library Functionality"
+msgstr "قابلیت کتابخانه"
+
+#: src/Pmpr/Module/Subscription/Setting.php:267
+msgid "Enabled"
+msgstr "فعال سازی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:273
+msgid "My Account Tab"
+msgstr "تب حساب کاربری"
+
+#: src/Pmpr/Module/Subscription/Setting.php:276
+msgid "Tab Title"
+msgstr "عنوان تب"
+
+#: src/Pmpr/Module/Subscription/Setting.php:285
+msgid "PDF Viewer Configuration"
+msgstr "پیکربندی پی‌دی‌اف خوان"
+
+#: src/Pmpr/Module/Subscription/Setting.php:292
+msgid "Viewer Page"
+msgstr "صفحه پی‌دی‌اف خوان"
+
+#: src/Pmpr/Module/Subscription/Setting.php:297
+msgid "Viewer Language"
+msgstr "زبان پی‌دی‌اف خوان"
+
+#: src/Pmpr/Module/Subscription/Setting.php:298
+msgid "Persian"
+msgstr "فارسی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:299
+msgid "English"
+msgstr "انگلیسی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:305
+msgid "Posts with More than one Attachment"
+msgstr "نوشته‌های دارای بیش از یک پیوست"
+
+#: src/Pmpr/Module/Subscription/Setting.php:308
+msgid "Show Attachment Approach"
+msgstr "رویکرد نمایش پیوست"
+
+#: src/Pmpr/Module/Subscription/Setting.php:310
+#: src/Pmpr/Module/Subscription/Setting.php:317
+msgid "Show First Attachment"
+msgstr "نمایش پیوست اول"
+
+#: src/Pmpr/Module/Subscription/Setting.php:311
+msgid "Show Modal to Select Attachment"
+msgstr "نمایش مودال برای انتخاب پیوست"
+
+#: src/Pmpr/Module/Subscription/Setting.php:318
+msgid ""
+"By checking this option, The first attachment will be displayed to the user."
+msgstr "با فعال کردن این گزینه، پیوست اول به کاربر نمایش داده خواهد شد."
+
+#: src/Pmpr/Module/Subscription/Setting.php:324
+msgid "Toolbar"
+msgstr "نوار ابزار"
+
+#: src/Pmpr/Module/Subscription/Setting.php:325
+msgid "If you want to enable below buttons, check items."
+msgstr "اگر می‌خواهید دکمه‌های زیر در صفحه فعال باشند، علامت بزنید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:328
+#: src/Pmpr/Module/Subscription/Setting.php:455
+#: src/Pmpr/Module/Subscription/Setting.php:460
+#: src/Pmpr/Module/Subscription/Woocommerce/Product.php:182
+msgid "Download"
+msgstr "دانلود"
+
+#: src/Pmpr/Module/Subscription/Setting.php:329
+msgid "download document"
+msgstr "دانلود سند"
+
+#: src/Pmpr/Module/Subscription/Setting.php:333
+msgid "Print"
+msgstr "چاپ"
+
+#: src/Pmpr/Module/Subscription/Setting.php:334
+msgid "print document"
+msgstr "چاپ سند"
+
+#: src/Pmpr/Module/Subscription/Setting.php:340
+msgid "Disrupt"
+msgstr "جلوگیری از کپی محتوا"
+
+#: src/Pmpr/Module/Subscription/Setting.php:343
+msgid "Text Selection"
+msgstr "انتخاب متن"
+
+#: src/Pmpr/Module/Subscription/Setting.php:344
+msgid "By checking this option, user can not select the document text."
+msgstr "با فعال کردن این گزینه، کاربر قادر به انتخاب متن سند نخواهد بود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:348
+msgid "Contextmenu"
+msgstr ""
+
+#: src/Pmpr/Module/Subscription/Setting.php:349
+msgid ""
+"By checking this option, browser right click functionality not working anymore."
+msgstr "با فعال کردن این گزینه، قابلیت کلیک راست مرورگر از کار خواهد افتاد."
+
+#: src/Pmpr/Module/Subscription/Setting.php:353
+msgid "Developer Tools"
+msgstr ""
+
+#: src/Pmpr/Module/Subscription/Setting.php:354
+msgid ""
+"By checking this option, the user will be redirected to a selected page when "
+"trying to access the devtools."
+msgstr ""
+"با فعال کردن این گزینه، کاربر در تلاش برای دسترسی به Developer Tools  به یک صفحه "
+"انتخابی ریدایرکت خواهد شد."
+
+#: src/Pmpr/Module/Subscription/Setting.php:359
+msgid "Redirect Destination"
+msgstr "مقصد ریدایرکت"
+
+#: src/Pmpr/Module/Subscription/Setting.php:360
+msgid ""
+"If browser devtools already opened or user try to open it, viewer redirect to "
+"selected page."
+msgstr ""
+"اگر ابزار توسعه دهنده مروگر باز باشد یا توسط کاربر باز شود، صفحه پی‌دی‌اف خوان به "
+"صفحه انتخاب شده ریدایرکت می‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:367
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: src/Pmpr/Module/Subscription/Setting.php:368
+msgid "Woocommerce Configuration"
+msgstr "پیکربندی ووکامرس"
+
+#: src/Pmpr/Module/Subscription/Setting.php:375
+msgid "Hide Coupon Remove Link"
+msgstr "عدم نمایش دکمه حذف کد تخفیف"
+
+#: src/Pmpr/Module/Subscription/Setting.php:376
+msgid "By checking this option, coupon remove button hidden for plan's coupons."
+msgstr ""
+"با فعال کردن این گزینه، دکمه حذف کد تخفیف برای کد تخفیف‌های مربوط به پلن‌ها نمایش "
+"داده نمی‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:380
+msgid "Remove Coupon Code"
+msgstr "حذف کد کوپن"
+
+#: src/Pmpr/Module/Subscription/Setting.php:381
+msgid ""
+"By checking this option, coupon code remove from checkout and cart page for "
+"plan's coupons."
+msgstr ""
+"با فعال کردن این گزینه، «کد» کد تخفیف برای کد تخفیف‌های مربوط به پلن‌ها نمایش داده "
+"نمی‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:385
+msgid "Thank You Message"
+msgstr "پیام تشکر"
+
+#: src/Pmpr/Module/Subscription/Setting.php:387
+#, php-format
+msgid ""
+"%1$s subscription has been activated for you until %2$s.<br>From now until %2$s, "
+"you will benefit from the following features..<br>%3$s"
+msgstr ""
+"اشتراک %1$s تا تاریخ %2$s برای شما فعال گردید.<br>از این پس تا تاریخ %2$s از "
+"ویژگی‌های زیر بهرمند خواهید شد.<br>%3$s"
+
+#: src/Pmpr/Module/Subscription/Setting.php:390
+msgid ""
+"If the user has purchased a plan, this message will be displayed on the thank "
+"you page."
+msgstr ""
+"اگر کاربر پلنی را خریداری کرده باشد، این پیام در صفحه تشکر به وی نمایش داده می "
+"شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:393
+#: src/Pmpr/Module/Subscription/Setting.php:412
+msgid "Subscription Features"
+msgstr "ویژگی‌های اشتراک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:399
+msgid "User Subscription Status"
+msgstr "وضعیت اشتراک کاربر"
+
+#: src/Pmpr/Module/Subscription/Setting.php:400
+msgid ""
+"Depending on the cover or skin used, in order to display the status of the "
+"user's subscription, short and long templates will be used in different places."
+msgstr ""
+"بسته به کاور یا پوسته مورد استفاده، به منظور نمایش وضعیت اشتراک کاربر از قالب‌های "
+"مختصر و مفصل در مکان‌های مختلف استفاده خواهد شد."
+
+#: src/Pmpr/Module/Subscription/Setting.php:403
+msgid "User Status Short Template"
+msgstr "قالب مختصر وضعیت کاربر"
+
+#: src/Pmpr/Module/Subscription/Setting.php:409
+msgid "User Status Long Template"
+msgstr "قالب مفصل وضعیت کاربر"
+
+#: src/Pmpr/Module/Subscription/Setting.php:418
+msgid "Attachment View Button Text"
+msgstr "متن دکمه مشاهده پیوست"
+
+#: src/Pmpr/Module/Subscription/Setting.php:421
+#: src/Pmpr/Module/Subscription/Setting.php:440
+#: src/Pmpr/Module/Subscription/Setting.php:454
+#: src/Pmpr/Module/Subscription/Setting.php:474
+msgid "Before Granting Access"
+msgstr "قبل از اعطای دسترسی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:426
+#: src/Pmpr/Module/Subscription/Setting.php:444
+#: src/Pmpr/Module/Subscription/Setting.php:459
+#: src/Pmpr/Module/Subscription/Setting.php:478
+msgid "After Granting Access"
+msgstr "بعد از اعطای دسترسی"
+
+#: src/Pmpr/Module/Subscription/Setting.php:432
+msgid "You can change view button text of products that related to selected terms."
+msgstr "شما می‌توایند متن دکمه مشاهده مرتبط با ترم‌های انتخاب شده را تغییر دهید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:435
+#: src/Pmpr/Module/Subscription/Setting.php:469
+msgid "Product Category/Tag"
+msgstr "تگ/دسته‌بندی محصول"
+
+#: src/Pmpr/Module/Subscription/Setting.php:451
+msgid "Attachment Download Button Text"
+msgstr "متن دکمه دانلود پیوست"
+
+#: src/Pmpr/Module/Subscription/Setting.php:465
+msgid "Term"
+msgstr "ترم"
+
+#: src/Pmpr/Module/Subscription/Setting.php:466
+msgid ""
+"You can change download button text of products that related to selected terms."
+msgstr "شما می‌توایند متن دکمه دانلود مرتبط با ترم‌های انتخاب شده را تغییر دهید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:485
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: src/Pmpr/Module/Subscription/Setting.php:496
+msgid "Inactive Plan(Not available for purchase) Message"
+msgstr "پیام پلن غیرفعال (غیر قابل خرید)"
+
+#: src/Pmpr/Module/Subscription/Setting.php:497
+msgid "You can not add this plan to cart."
+msgstr "شما نمی‌توانید این پلن را به سبد خرید خود اضافه کنید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:498
+msgid "This message show when user try to add inactive plan to cart."
+msgstr ""
+"اگر کاربر یک پلن غیرفعال را به کارت خود اضافه کند، این پیام نمایش داده می‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:503
+msgid "Already Subscribed Message"
+msgstr "پیام کاربران مشترک"
+
+#: src/Pmpr/Module/Subscription/Setting.php:504
+msgid "You already have an active plan."
+msgstr "شما در حال حاضر دارای پلن فعال هستید."
+
+#: src/Pmpr/Module/Subscription/Setting.php:505
+msgid ""
+"This message show when user has an active plan and try to add another plan to "
+"cart."
+msgstr ""
+"این پیام به کاربرانی که پلن فعال دارند و تلاش می‌کنند پلن دیگری را به سبد خرید "
+"اضافه کنند، نمایش داده می‌شود."
+
+#: src/Pmpr/Module/Subscription/Setting.php:510
+msgid "Another Plan Already Added to Cart Message"
+msgstr "پیام وجود پلن دیگر در سبد خرید"
+
+#: src/Pmpr/Module/Subscription/Setting.php:511
+msgid ""
+"You can not add this item to cart, because you have another plan in you cart."
+msgstr ""
+"شما نمی‌توانید این آیتم را به سبد خرید خود اضافه کنید، زیرا در حال حاضر پلن دیگری "
+"در سبد خریدتان وجود دارد."
+
+#: src/Pmpr/Module/Subscription/Setting.php:512
+msgid "This message show when user try add more than one plan to cart."
+msgstr ""
+"این پیام زمانی نمایش داده می‌شود که کاربر سعی در افزودن بیش از یک پلن به سبد خرید "
+"خود داشته باشد."
+
+#: src/Pmpr/Module/Subscription/Setting.php:527
+#, php-format
+msgid "%s Button"
+msgstr "دکمه %s"
+
+#: src/Pmpr/Module/Subscription/Setting.php:537
+#, php-format
+msgid "User can %s, if you enable this option."
+msgstr "با فعال کردن این گزینه، کاربرقادر به %s خواهد بود."
+
+#: src/Pmpr/Module/Subscription/Subscription.php:21
+msgid "Content Subscription"
+msgstr "اشتراک محتوا"
+
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:146
+msgid "This item already added to your library."
+msgstr "این آیتم پیش از این به کتابخانه شما اضافه شده است."
+
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:158
+msgid "Library functionality not enable right now."
+msgstr "عملکرد کتابخانه در حال حاضر فعال نیست."
+
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:185
+msgid "Can not delete requested item, please try again."
+msgstr "قادر به حذف آیتم درخواستی نیستیم، لطفا دوباره تلاش کنید."
+
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:189
+msgid "Requested item to delete, not exist in your library."
+msgstr "آیتمی که می‌خواهید حذف کنید، در کتابخانه شما موجود نیست."
+
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:193
+msgid "Requested item to delete, not exist."
+msgstr "آیتمی که می‌خواهید حذف کنید وجود ندارد."
+
+#: src/Pmpr/Module/Subscription/Traits/LibraryTrait.php:202
+msgid "To delete item from library, you need to login or register first."
+msgstr "برای حذف آیتم از کتابخانه شما ابتدا باید وارد حساب خود شوید."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:145
+msgid "Logout"
+msgstr "خروج"
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:152
+#, php-format
+msgid "The {%s} subscription is active for you and is valid until {%s}."
+msgstr "اشتراک {%s} برای شما فعال است و تا {%s} معتبر است."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:157
+#, php-format
+msgid "You do not have an active subscription, %s."
+msgstr "شما هیچ اشتراک فعالی ندارید، %s."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:158
+msgid "click here to see plans"
+msgstr "برای مشاهده پلن‌ها اینجا را کلیک کنید"
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:179
+#, php-format
+msgid "Subscription: %s</br>Expire Date: %s"
+msgstr "اشتراک:‌%s <br> تاریخ اعتبار: %s"
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:187
+msgid "You do not have an active subscription"
+msgstr "شما هیچ اشتراک فعالی ندارید"
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:205
+msgid "No item has been added yet."
+msgstr "هنوز آیتمی اضافه نشده است."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Account.php:208
+msgid "Related to"
+msgstr "مرتبط با"
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Cart.php:48
+#, php-format
+msgid "Sorry, \"%s\" is not purchasable by users that already subscribed."
+msgstr "متاسفانه \"%s\" قابل خرید توسط کاربرانی که اشتراک فعال دارند نیست."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Cart.php:51
+msgid "Sorry, you can not subscribe to more than one plan."
+msgstr "متاسفانه شما‌ نمی‌توانید در بیشتر از یک پلن مشترک شوید."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Cart.php:57
+#, php-format
+msgid "Sorry, \"%s\" is not an active plan."
+msgstr "متاسفانه \"%s\" یک پلن فعال نیست."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Coupon.php:51
+msgid "Discount"
+msgstr "تخفیف"
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Order.php:94
+#, php-format
+msgid "User Subscribed to %s successfully."
+msgstr "کاربر با موفقیت در %s مشترک شد."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Order.php:104
+msgid "User already subscribed."
+msgstr "کاربر پیش از این مشترک شده است."
+
+#: src/Pmpr/Module/Subscription/Woocommerce/Setting.php:54
+msgid ""
+"Carts containing content subscription plans cannot be paid for by guest users."
+msgstr ""
+"سبد‌های خرید حاوی پلن‌های اشتراک محتوا،‌ قابل پرداخت توسط کاربران مهمان نیستند."
+
+#~ msgid "View Pricing"
+#~ msgstr "مشاهده قیمت"
+
+#~ msgid "Notice:"
+#~ msgstr "توجه:"
+
+#~ msgid "Sorry, \"%s\" is not purchasable by unregistered users."
+#~ msgstr "متاسفانه \"%s\" قابل خرید توسط کاربرانی که ثبت‌نام نکرده‌اند نیست."
+
+#~ msgid ""
+#~ "Because the content subscription module is active, it is not possible to "
+#~ "activate this option."
+#~ msgstr ""
+#~ "به دلیل فعال بودن ماژول اشتراک محتوا،‌امکان فعال کردن این گزینه وجود ندارد."
+
+#~ msgid "Not Logged In Message"
+#~ msgstr "کاربران لاگین نشده"
+
+#~ msgid "You need login or create an account first."
+#~ msgstr "ابتدا وارد شوید و یا یک حساب کاربری بسازید."
+
+#~ msgid "This message show when user not logged in."
+#~ msgstr ""
+#~ "این پیام به کاربرانی که ثبت‌نام نکرده‌اند یا لاگین نکرده‌اند نشان داده‌ خواهد شد."
+
+#~ msgid "Shop Order"
+#~ msgstr "سفارش"
+
+#~ msgid "or post type"
+#~ msgstr "یا نوع نوشته‌"
+
+#~ msgid "Limitation Approach"
+#~ msgstr "رویکرد محدودیت"
+
+#~ msgid "Regulation"
+#~ msgstr "قاعده"
+
+#~ msgid "Access Type"
+#~ msgstr "نوع دسترسی"
+
+#~ msgid "Modified"
+#~ msgstr "تاریخ به روز رسانی"
+
+#~ msgid "Posts"
+#~ msgstr "نوشته‌ها"
+
+#~ msgid "Limit"
+#~ msgstr "محدودیت"
+
+#~ msgid "Access"
+#~ msgstr "دسترسی"
+
+#~ msgid "Reserved"
+#~ msgstr "رزرو شده"
+
+#~ msgid "Disrupt Devtools"
+#~ msgstr "Developer Tools"
+
+#~ msgid ""
+#~ "By checking this option, try to disrupt on opening browser devtools by "
+#~ "redirect."
+#~ msgstr ""
+#~ "با فعال کردن این گزینه، سعی می‌کنیم با ریدایرکت کردن اختلالی برای کاربر هنگام "
+#~ "باز کردن ابزار توسعه مرورگر ایجاد کینم."
+
+#~ msgid "Method"
+#~ msgstr "روش"
+
+#~ msgid "Users"
+#~ msgstr "کاربران"
+
+#~ msgid "Loaded"
+#~ msgstr "بارگذاری شده"
+
+#~ msgid "Open"
+#~ msgstr "باز کردن"
+
+#~ msgid "open document in browser"
+#~ msgstr "باز کردن سند در مرورگر"
+
+#~ msgid "User Status"
+#~ msgstr "وضعیت کاربر"
+
+#~ msgid "User Plan"
+#~ msgstr "پلن کاربر"
+
+#~ msgid "Product Column Label"
+#~ msgstr "عنوان ستون محصول"
+
+#~ msgid "View Column Label"
+#~ msgstr "عنوان ستون مشاهده"
+
+#~ msgid "Action"
+#~ msgstr "عملیات"
+
+#~ msgid "Subscribe"
+#~ msgstr "اشتراک"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid ""
+#~ "Sorry, this file couldn't be sanitized so for security reasons wasn't uploaded"
+#~ msgstr ""
+#~ "متاسفم، قادر به پاکسازی فایل مورد نظر نبودیم، به دلایل امنیتی فایل آپلود نشد"
+
+#~ msgid "Full Size"
+#~ msgstr "اندازه کامل"
+
+#~ msgid "Thumbnail"
+#~ msgstr "تصویر بند انگشتی"
+
+#~ msgid "Medium"
+#~ msgstr "متوسط"
+
+#~ msgid "AMP"
+#~ msgstr "شتابدهی موبایل"
+
+#~ msgid "Endpoint"
+#~ msgstr "نقطه پایانی"
+

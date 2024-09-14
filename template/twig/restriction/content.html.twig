@@ -1,0 +1,11 @@
+{{ wpautop(message)|raw }}
+<br>
+{% if actions is iterable %}
+    {% for action in actions %}
+        {{ action|raw }}
+    {% endfor %}
+{% else %}
+    {{ actions|raw }}
+{% endif %}
+
+
