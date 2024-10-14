@@ -1,32 +1,9 @@
 {
-  "name": "pmpr-mdl/wp-mdl-subscription",
-  "type": "project",
-  "license": "proprietary",
-  "description": "Subscription Module for Wordpress",
-  "keywords": [
-    "subscription",
-    "wordpress",
-    "package",
-    "module"
-  ],
-  "require": {
-    "php": ">=8.2",
-    "pmpr-cmn/wp-cmn-foundation": "~1.4"
-  },
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
-  "autoload": {
-    "psr-4": {
-      "Pmpr\\Module\\Subscription\\": "src/Pmpr/Module/Subscription"
-    },
-    "files": [
-      "index.php"
-    ]
-  },
-  "minimum-stability": "dev",
   "tag": "1.1.40",
-  "timestamp": "1728905296"
+  "timestamp": "1728923384"
 }
