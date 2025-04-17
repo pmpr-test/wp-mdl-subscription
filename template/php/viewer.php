@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             677fc5a4bc0b7             |
+    |             6800fbcbd88f0             |
     |_______________________________________|
 */
- pmpr_do_action("\163\165\x62\163\x63\162\x69\x70\164\x69\157\x6e\137\166\x69\145\x77\145\162\137\162\145\156\x64\145\162\x5f\160\x64\146\x5f\x6a\163");
+ pmpr_do_action('subscription_viewer_render_pdf_js');
